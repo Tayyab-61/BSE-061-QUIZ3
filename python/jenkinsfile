@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 // Jenkinsfile (python-branch)
+=======
+// Jenkinsfile (in pythonbranch)
+>>>>>>> Stashed changes
 pipeline {
     agent any
     stages {
